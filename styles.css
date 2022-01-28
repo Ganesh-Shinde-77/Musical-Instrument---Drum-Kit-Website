@@ -49,6 +49,8 @@ footer {
 
 .set {
   margin: 8% auto;
+  display: flex;
+  justify-content: center;
 }
 
 .pressed {
@@ -70,7 +72,7 @@ footer {
   color: #00e7c8;
   text-shadow: 3px 0 #071414;
   border-radius: 15px;
-  display: inline-block;
+  /* display: inline-block; */
   width: 150px;
   height: 150px;
   text-align: center;
