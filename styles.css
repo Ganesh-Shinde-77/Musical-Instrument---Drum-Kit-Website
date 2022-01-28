@@ -15,9 +15,6 @@ h1 {
 
 }
 
-footer {
-  color: #DBEDF3;
-}
 
 .w {
   background-image: url("/images/tom1.png");
@@ -82,4 +79,5 @@ footer {
 
 footer {
   margin: 10% 0 0 0;
+  color: #DBEDF3;
 }
